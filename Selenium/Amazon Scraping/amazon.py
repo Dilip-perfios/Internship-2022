@@ -5,10 +5,10 @@ options = webdriver.ChromeOptions()
 options.add_experimental_option('excludeSwitches', ['enable-logging'])
 # options.add_argument('--headless')
 driver = webdriver.Chrome(options=options)
-
 driver.get("https://www.amazon.in/")
-gmail="gokuldilip.official@gmail.com"
-password="#1989Amazon"
+
+gmail=input("Enter Required Email:")
+password=input("Enter Required Password:")
 
 driver.find_element_by_xpath('//*[@id="nav-signin-tooltip"]/a/span').click()
 driver.find_element_by_xpath('//*[@id="ap_email"]').send_keys(gmail)
