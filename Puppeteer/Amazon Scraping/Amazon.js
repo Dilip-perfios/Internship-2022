@@ -14,8 +14,9 @@ async function scrap(){
     // await page.setViewport({ width: 1600, height: 1000 })       //Resizing the windows
     await page.goto("https://www.amazon.in");                 //browse
     
-    let email = "gokuldilip.official@gmail.com";
-    let password = "#1989Amazon";
+    let email = prompt('Enter Required email ');
+
+    let password = prompt('Enter Required Password ');
 
     // let email = prompt('Enter Required email ');
     // let password = prompt('Enter Required Password ');
