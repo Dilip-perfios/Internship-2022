@@ -4,14 +4,22 @@ const prompt = require("prompt-sync")({ sigint: true });
 let count = 0
 
 async function scrap(){
-    const browser = await puppeteer.launch({headless: false});
+    // const browser = await puppeteer.launch({headless: false});
+    const browser = await puppeteer.launch({ 
+        headless: false,
+        defaultViewport: null,
+        args: ['--start-maximized'] 
+  });
     const page = await browser.newPage();
-    await page.setViewport({ width: 1280, height: 800 })       //Resizing the windows
+    // await page.setViewport({ width: 1600, height: 1000 })       //Resizing the windows
     await page.goto("https://www.amazon.in");                 //browse
     
-    let email = prompt('Enter Required email ');
+    let email = "gokuldilip.official@gmail.com";
+    let password = "#1989Amazon";
 
-    let password = prompt('Enter Required Password ');
+    // let email = prompt('Enter Required email ');
+    // let password = prompt('Enter Required Password ');
+
 
     await page.waitForSelector('#nav-signin-tooltip > a > span');        //wait till selector loads
     await page.click('#nav-signin-tooltip > a > span')
@@ -48,16 +56,19 @@ async function scrap(){
     retrieve(page,4);
     console.log("Sub-option '2021' src retrieved");
 
-    //signout!
+    
+
+    // signout!
     await page.waitForNavigation();
-    await page.hover('#nav-link-accountList-nav-line-1');
-    await page.waitForNavigation();
-    await page.waitForXPath('//*[@id="nav-item-signout"]/span');
-    await page.click('//*[@id="nav-item-signout"]/span');
-    await window.close()
+    await browser.close()
+    // await page.waitForSelector('#nav-link-accountList');
+    // await page.hover('#nav-link-accountList');
+    // await page.waitForNavigation();
+    // await page.waitForSelector('#nav-item-signout > span');
+    // await page.click('#nav-item-signout > span');
+    console.log("Website Closed")
     
 }
-console.log(p)
 async function retrieve(page,num){
     await page.waitForNavigation();
     let html = await page.evaluate(() => document.body.innerHTML);
