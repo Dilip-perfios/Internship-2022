@@ -22,8 +22,9 @@ async function scrap(){
     // let password = prompt('Enter Required Password ');
 
 
+
     await page.waitForSelector('#nav-signin-tooltip > a > span');        //wait till selector loads
-    await page.click('#nav-signin-tooltip > a > span')
+    await page.click('#nav-signin-tooltip > a > span')                   //span[contains(text["SignIn"])
     // await page.waitForXPath()
     await page.waitForSelector('#ap_email');        //wait till selector loads
     await page.type('#ap_email',email);             //select and enter the email
