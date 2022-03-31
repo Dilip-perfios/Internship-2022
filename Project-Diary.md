@@ -229,3 +229,32 @@
 
 * Had a discussion about the mid-term presentation and objective of the same.
 * Guidelines regarding the PPT was made clear.
+
+---
+## [28/03/2022 - Day 23]
+<h1 align="center"><strong>Preparation of PPT</h1>
+
+* Research and gathering of resourses.
+* Started preparing templates.
+
+---
+## [29/03/2022 - Day 24]
+<h1 align="center"><strong>Preparation of PPT</h1>
+
+* Made flowchart according to working model.
+* Researched about alternatives of existing model.
+
+---
+## [30/03/2022 - Day 25]
+<h1 align="center"><strong>Preparation of PPT</h1>
+
+* Making of ppt.
+* Arranging content into slides.
+* Final touch-up and made changes accoring to various inputs given.
+
+---
+## [31/03/2022 - Day 26]
+<h1 align="center"><strong>Mid-term presentation with Team Adapter</h1>
+
+* Presented PPT to team.
+* Took inputs and made respective changes.
