@@ -206,24 +206,28 @@
 * Understood the implementation of cheerio.
 * Discussion on parsing
 
+---
 ## [21/03/2022 - Day 19]
 <h1 align="center"><strong>Code Optimization</h1>
 
 * Added relevent comments for better understanding.
 * tried to make the code more Generic.
 
+---
 ## [22/03/2022 - Day 20]
 <h1 align="center"><strong>About Github Wikis</h1>
 
 * Github wiki is basically a descriptive .md file.
 * It represents the moto and output of the project pushed.
 
+---
 ## [23/03/2022 - Day 21]
 <h1 align="center"><strong>About Protractor and Cypress</h1>
 
 * Protractor is an end-to-end test framework for Angular and AngularJS applications. Protractor runs tests against your application running in a real browser, interacting with it as a user would.
 * Cypress is a free, open-source, locally installed Test Runner and a Dashboard Service for recording your tests.
 
+---
 ## [25/03/2022 - Day 22]
 <h1 align="center"><strong>Mid-Term Presentation Guidelines</h1>
 
