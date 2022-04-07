@@ -261,4 +261,47 @@
 <h1 align="center"><strong>Mid-term presentation with Team Adapter</h1>
 
 * Presented PPT to team.
-* Took inputs and made respective changes.
+* Took inputs.
+   
+---
+## [01/04/2022 - Day 27]
+<h1 align="center"><strong>Editing PPT</h1>
+   
+* Made Appropriate changes.
+* Prepared for Presentation with manager.
+
+---
+## [02/04/2022 - Day 28]
+<h1 align="center"><strong>Mid-term presentation with Senior VP-Cillanki Sir </h1>
+  
+* Explained Presentation.
+* Detailed discussion of Problem statement.
+   
+---
+## [04/04/2022 - Day 30]
+<h1 align="center"><strong>Scraping of Axis Bank using puppeteer</h1>
+
+* Understood the work flow of logging into axis bank.
+* Discussing the approach of coding.
+   
+---
+## [05/04/2022 - Day 31]
+<h1 align="center"><strong>Hands-on with Axis Bank</h1>
+  
+* Started to implement different approaches.
+* Noted down some difficulties faced while coding.
+* Went through cheerio's documentation for better understanding.
+---
+## [06/04/2022 - Day 32]
+<h1 align="center"><strong>Doubt Session</h1>
+   
+* Discussion about the code and approaches.
+* Found alternatives for some code snippets for better performance.
+* Took inputs regarding some specific corner cases.
+   
+---
+## [07/04/2022 - Day 33]
+<h1 align="center"><strong>Downloading the Required Data</h1>
+   
+* Discussion on how to download and store .csv file.
+* Guidelines regarding how to fetech the details from .csv
