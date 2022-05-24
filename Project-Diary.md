@@ -305,3 +305,136 @@
    
 * Discussion on how to download and store .csv file.
 * Guidelines regarding how to fetech the details from .csv
+   
+---
+## [08/04/2022 - Day 34]
+<h1 align="center"><strong>Downloading the Required Data</h1>
+   
+---
+## [11/04/2022 - Day 35]
+<h1 align="center"><strong>Downloading the Required Data</h1>
+   
+---
+## [12/04/2022 - Day 36]
+<h1 align="center"><strong>Downloading the Required Data</h1>
+   
+---
+## [13/04/2022 - Day 37]
+<h1 align="center"><strong>Downloading the Required Data</h1>
+
+   
+---
+## [14/04/2022 - Day 38]
+<h1 align="center"><strong>Downloading the Required Data</h1>
+   
+---
+## [18/04/2022 - Day 39]
+<h1 align="center"><strong>Downloading the Required Data</h1>
+   
+---
+## [19/04/2022 - Day 40]
+<h1 align="center"><strong>Downloading the Required Data</h1>
+   
+---
+## [20/04/2022 - Day 41]
+<h1 align="center"><strong>Downloading the Required Data</h1>
+   
+---
+## [21/04/2022 - Day 42]
+<h1 align="center"><strong>Downloading the Required Data</h1>
+   
+---
+## [22/04/2022 - Day 43]
+<h1 align="center"><strong>Downloading the Required Data</h1>
+   
+---
+## [25/04/2022 - Day 44]
+<h1 align="center"><strong>Downloading the Required Data</h1>
+   
+---
+## [26/04/2022 - Day 45]
+<h1 align="center"><strong>Downloading the Required Data</h1>
+   
+---
+## [27/04/2022 - Day 46]
+<h1 align="center"><strong>Downloading the Required Data</h1>
+   
+---
+## [29/04/2022 - Day 47]
+<h1 align="center"><strong>Downloading the Required Data</h1>
+   
+---
+## [02/05/2022 - Day 48]
+<h1 align="center"><strong>Downloading the Required Data</h1>
+   
+---
+## [03/05/2022 - Day 49]
+<h1 align="center"><strong>Downloading the Required Data</h1>
+   
+---
+## [04/05/2022 - Day 50]
+<h1 align="center"><strong>Downloading the Required Data</h1>
+   
+---
+## [05/05/2022 - Day 51]
+<h1 align="center"><strong>Downloading the Required Data</h1>
+   
+---
+## [06/05/2022 - Day 52]
+<h1 align="center"><strong>Downloading the Required Data</h1>
+   
+---
+## [11/05/2022 - Day 53]
+<h1 align="center"><strong>Downloading the Required Data</h1>
+   
+---
+## [13/05/2022 - Day 54]
+<h1 align="center"><strong>Downloading the Required Data</h1>
+   
+---
+## [16/055/2022 - Day 55]
+<h1 align="center"><strong>Downloading the Required Data</h1>
+   
+---
+## [17/05/2022 - Day 56]
+<h1 align="center"><strong>Downloading the Required Data</h1>
+   
+---
+## [18/05/2022 - Day 57]
+<h1 align="center"><strong>Downloading the Required Data</h1>
+   
+---
+## [19/05/2022 - Day 58]
+<h1 align="center"><strong>Downloading the Required Data</h1>
+   
+---
+## [20/05/2022 - Day 59]
+<h1 align="center"><strong>Downloading the Required Data</h1>
+   
+---
+## [23/05/2022 - Day 60]
+<h1 align="center"><strong>Downloading the Required Data</h1>
+   
+---
+## [24/05/2022 - Day 61]
+<h1 align="center"><strong>Downloading the Required Data</h1>
+   
+---
+## [25/05/2022 - Day 62]
+<h1 align="center"><strong>Downloading the Required Data</h1>
+   
+---
+## [26/05/2022 - Day 63]
+<h1 align="center"><strong>Downloading the Required Data</h1>
+   
+---
+## [27/05/2022 - Day 64]
+<h1 align="center"><strong>Downloading the Required Data</h1>
+   
+---
+## [30/05/2022 - Day 65]
+<h1 align="center"><strong>Downloading the Required Data</h1>
+   
+---
+## [31/05/2022 - Day 66]
+<h1 align="center"><strong>Downloading the Required Data</h1>
