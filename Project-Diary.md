@@ -168,7 +168,7 @@
 * Had a discussion about the code on scraping amazon.
 * Was told to create series of dump.html files with respect to the clicks made on the browser.
 * Was told to replace hardcoded dump.html file names with a global variable logic.
-* Minuet changes in the code for better understanding and faster execution.
+* Minute changes in the code for better understanding and faster execution.
 * Pushed the code into Github.
 
 ---
@@ -308,44 +308,84 @@
    
 ---
 ## [08/04/2022 - Day 34]
-<h1 align="center"><strong>Downloading the Required Data</h1>
+<h1 align="center"><strong>Rendering the .csv file</h1>
+   
+* discussion about what fields are to be included from the .csv file.
+* Understanding how to retrieve those fields.
+* Understood how to use fetch data using javascript and applied data structures to store data.
    
 ---
 ## [11/04/2022 - Day 35]
-<h1 align="center"><strong>Downloading the Required Data</h1>
+<h1 align="center"><strong>Intro about output file</h1>
+   
+* discussion on what the output.txt file should contain.
+* The requried format.
+* Understood a basic approach on how to obtain it using javascript.
    
 ---
 ## [12/04/2022 - Day 36]
-<h1 align="center"><strong>Downloading the Required Data</h1>
+<h1 align="center"><strong>Output.txt</h1>
+   
+* Worked on cheerio to parse html to gather summary and personal details.
+* Implemented the same using javascript with the help of data structures.
+* Watched youtube to learn about files usng javascript.
    
 ---
 ## [13/04/2022 - Day 37]
-<h1 align="center"><strong>Downloading the Required Data</h1>
+<h1 align="center"><strong>Started to code for requried output.txt file</h1>
+
+* Faced issues while coding for output.txt with javascript.
+* Discussion on how to solve.
+* Successfully completed the summary and personal details part/
 
    
 ---
 ## [14/04/2022 - Day 38]
-<h1 align="center"><strong>Downloading the Required Data</h1>
+<h1 align="center"><strong>Discussion about transactions</h1>
+ 
+* Filtered out the requried transactions.
+* Changed the syntax of transaction-date to sql format (standard).
+* Appended these transactions to output.txt in requried format.
    
 ---
 ## [18/04/2022 - Day 39]
-<h1 align="center"><strong>Downloading the Required Data</h1>
+<h1 align="center"><strong>Setting up the Code</h1>
+   
+* Combined all the pieces of code(scrape and parse) in one file.
+* Created two combined functions for proper flow and understanding.
+* Faced issue with async and await
    
 ---
 ## [19/04/2022 - Day 40]
-<h1 align="center"><strong>Downloading the Required Data</h1>
+<h1 align="center"><strong>Execution time</h1>
+
+* Understood how to calculate the total execution time.
+* Understood how to use console.time()
+* Calculated the average execution time taken for scraping axis bank website.
    
 ---
 ## [20/04/2022 - Day 41]
-<h1 align="center"><strong>Downloading the Required Data</h1>
+<h1 align="center"><strong>Memory allocation-RAM</h1>
+   
+* Installed htop.
+* Understood how to check and use it.
+* Calculated the same for javascript.
    
 ---
 ## [21/04/2022 - Day 42]
-<h1 align="center"><strong>Downloading the Required Data</h1>
+<h1 align="center"><strong>Problems in Execution</h1>
+   
+* Faced issues while executing the program all at once.
+* understood the errors.
+* Noted down the issues.
    
 ---
 ## [22/04/2022 - Day 43]
-<h1 align="center"><strong>Downloading the Required Data</h1>
+<h1 align="center"><strong>Doubt Session</h1>
+   
+* Discussion about the issues and showed them.
+* Understood how to solve them.
+* Took inputs regarding some specific corner cases.
    
 ---
 ## [25/04/2022 - Day 44]
@@ -361,7 +401,7 @@
    
 ---
 ## [29/04/2022 - Day 47]
-<h1 align="center"><strong>Downloading the Required Data</h1>
+<h1 align="center"><strong>Doubt Session</h1>
    
 ---
 ## [02/05/2022 - Day 48]
@@ -381,7 +421,7 @@
    
 ---
 ## [06/05/2022 - Day 52]
-<h1 align="center"><strong>Downloading the Required Data</h1>
+<h1 align="center"><strong>Doubt Session</h1>
    
 ---
 ## [11/05/2022 - Day 53]
@@ -397,7 +437,7 @@
    
 ---
 ## [17/05/2022 - Day 56]
-<h1 align="center"><strong>Downloading the Required Data</h1>
+<h1 align="center"><strong>Doubt Session</h1>
    
 ---
 ## [18/05/2022 - Day 57]
@@ -405,11 +445,11 @@
    
 ---
 ## [19/05/2022 - Day 58]
-<h1 align="center"><strong>Downloading the Required Data</h1>
+<h1 align="center"><strong>Cds team meet</h1>
    
 ---
 ## [20/05/2022 - Day 59]
-<h1 align="center"><strong>Downloading the Required Data</h1>
+<h1 align="center"><strong>Discussion </h1>
    
 ---
 ## [23/05/2022 - Day 60]
