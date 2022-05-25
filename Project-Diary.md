@@ -319,7 +319,7 @@
 <h1 align="center"><strong>Intro about output file</h1>
    
 * discussion on what the output.txt file should contain.
-* The requried format.
+* The required format.
 * Understood a basic approach on how to obtain it using javascript.
    
 ---
@@ -332,20 +332,19 @@
    
 ---
 ## [13/04/2022 - Day 37]
-<h1 align="center"><strong>Started to code for requried output.txt file</h1>
+<h1 align="center"><strong>Started to code for required output.txt file</h1>
 
 * Faced issues while coding for output.txt with javascript.
 * Discussion on how to solve.
-* Successfully completed the summary and personal details part/
-
-   
+* Successfully completed the summary and personal details part.
+   requried
 ---
 ## [14/04/2022 - Day 38]
 <h1 align="center"><strong>Discussion about transactions</h1>
  
-* Filtered out the requried transactions.
+* Filtered out the required transactions.
 * Changed the syntax of transaction-date to sql format (standard).
-* Appended these transactions to output.txt in requried format.
+* Appended these transactions to output.txt in required format.
    
 ---
 ## [18/04/2022 - Day 39]
@@ -389,31 +388,51 @@
    
 ---
 ## [25/04/2022 - Day 44]
-<h1 align="center"><strong>Downloading the Required Data</h1>
+<h1 align="center"><strong>Scraping of Axis Bank using Selenium</h1>
+   
+* Discussion of the approach.
+* Started coding with python.
    
 ---
 ## [26/04/2022 - Day 45]
-<h1 align="center"><strong>Downloading the Required Data</h1>
+<h1 align="center"><strong>Hands-on with python</h1>
+   
+* Started coding without headless mode for better understanding.
+* Done with the login and fetching src -> dumbs part. 
    
 ---
 ## [27/04/2022 - Day 46]
-<h1 align="center"><strong>Downloading the Required Data</h1>
+<h1 align="center"><strong>Downloading and move the file</h1>
+   
+* Downloaded the .csv file containing the transactions.
+* Moved the file to the required directory.
    
 ---
 ## [29/04/2022 - Day 47]
-<h1 align="center"><strong>Doubt Session</h1>
+<h1 align="center"><strong>Rendering the .csv file</h1>
+   
+* Filtered out the required data using python.
+* Stored them in a Nested-list.
    
 ---
 ## [02/05/2022 - Day 48]
-<h1 align="center"><strong>Downloading the Required Data</h1>
+<h1 align="center"><strong>Beautiful Soup</h1>
+   
+* Parsed the .html file using beautiful soup.
+* Fetched the required details from .html file.
+* Stored them using dictionary.
    
 ---
 ## [03/05/2022 - Day 49]
-<h1 align="center"><strong>Downloading the Required Data</h1>
+<h1 align="center"><strong>Working on Output.txt</h1>
+   
+* Appended summary and personal details to output.txt file.
+* changed the syntax of transaction-date to sql standard format.
+* Appended these transactions to output.txt in the required format.
    
 ---
 ## [04/05/2022 - Day 50]
-<h1 align="center"><strong>Downloading the Required Data</h1>
+<h1 align="center"><strong>Combining the code</h1>
    
 ---
 ## [05/05/2022 - Day 51]
