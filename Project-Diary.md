@@ -434,62 +434,118 @@
 ## [04/05/2022 - Day 50]
 <h1 align="center"><strong>Combining the code</h1>
    
+* Combined all the pieces of code (scrape and parse) in one file.
+* Created two combined functions for proper flow and understanding.
+* Faced issue with loading and time.sleep().
+   
 ---
 ## [05/05/2022 - Day 51]
-<h1 align="center"><strong>Downloading the Required Data</h1>
+<h1 align="center"><strong>Execution time Calculation</h1>
+
+* Understood how to calculate the total execution time.
+* Understood how to use time.time()
+* Calculated the average execution time takes for scraping axis bank website.
    
 ---
 ## [06/05/2022 - Day 52]
-<h1 align="center"><strong>Doubt Session</h1>
+<h1 align="center"><strong>Memory allocation-RAM</h1>
+   
+* calculated load average and ram useage.
+
    
 ---
 ## [11/05/2022 - Day 53]
-<h1 align="center"><strong>Downloading the Required Data</h1>
+<h1 align="center"><strong>Problems in Execution</h1>
+   
+* Had problems while executing all together.
+* solved some errors.
+* dissussed about unsolved errors.
    
 ---
 ## [13/05/2022 - Day 54]
-<h1 align="center"><strong>Downloading the Required Data</h1>
+<h1 align="center"><strong>Moving the downloaded file</h1>
+   
+* Learnt about os library of python.
+* Understood how to move a file from one directory to another.
+* Implemented the same.
    
 ---
 ## [16/055/2022 - Day 55]
-<h1 align="center"><strong>Downloading the Required Data</h1>
+<h1 align="center"><strong>Problems faced durning Execution</h1>
+   
+* Faced multiple unsuccessful executions.
+* Axis website was down several times.
+* Took long time to execute majoraly due to slow website and sleep().
    
 ---
 ## [17/05/2022 - Day 56]
 <h1 align="center"><strong>Doubt Session</h1>
    
+* finalized the code.
+* cross checked the execution time and RAM usage.
+* minor changes in output.txt format.
+   
 ---
 ## [18/05/2022 - Day 57]
-<h1 align="center"><strong>Downloading the Required Data</h1>
+<h1 align="center"><strong>Code Update</h1>
    
+* Implemented the above changes.
+* prepared for cds team meeting with new manager and team.
+
 ---
 ## [19/05/2022 - Day 58]
 <h1 align="center"><strong>Cds team meet</h1>
    
+* Presented the mid-term ppt.
+* Took some inputs from team.
+* I was told to shift the code to ubuntu.
+   
 ---
 ## [20/05/2022 - Day 59]
-<h1 align="center"><strong>Discussion </h1>
+<h1 align="center"><strong>Code Shift</h1>
+   
+* Implemented the above changes.
+* Started using ubuntu (office laptop).
+* Pulled code form GIthub.
    
 ---
 ## [23/05/2022 - Day 60]
-<h1 align="center"><strong>Downloading the Required Data</h1>
+<h1 align="center"><strong>Execution in Ubuntu</h1>
+   
+* Installed required packages and modules for execution.
+* Faced issudes while executing in ubuntu.
+* Understood the basics of ubuntu and how to use it.
    
 ---
 ## [24/05/2022 - Day 61]
-<h1 align="center"><strong>Downloading the Required Data</h1>
+<h1 align="center"><strong>Clearing Errors</h1>
+   
+* Faced issues while installing npm wrt required path.
+* Discussed the same and solved the error.
    
 ---
 ## [25/05/2022 - Day 62]
-<h1 align="center"><strong>Downloading the Required Data</h1>
+<h1 align="center"><strong>Challanges faced</h1>
+   
+* Format of output.txt got changed (unicode).
+* Couldn't execute python file.
+* Faced issues with Chrome Driver. 
+
    
 ---
 ## [26/05/2022 - Day 63]
-<h1 align="center"><strong>Downloading the Required Data</h1>
+<h1 align="center"><strong>Preparation of Final Presentation</h1>
    
+* Started to make final ppt for presentation.
+* discussion on what all should be there in final ppt.
+* Created flow chart demonstrating the work flow of existing model.
+
 ---
 ## [27/05/2022 - Day 64]
-<h1 align="center"><strong>Downloading the Required Data</h1>
-   
+<h1 align="center"><strong>Preparation of Final Presentation</h1>
+
+*
+      
 ---
 ## [30/05/2022 - Day 65]
 <h1 align="center"><strong>Downloading the Required Data</h1>
