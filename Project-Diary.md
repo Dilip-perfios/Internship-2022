@@ -544,12 +544,21 @@
 ## [27/05/2022 - Day 64]
 <h1 align="center"><strong>Preparation of Final Presentation</h1>
 
-*
+* Generated and Added Screenshots of execution time.
+* Generate and Added Screenshots of Memory usage.
+* Calculated average execution time and added to ppt.
       
 ---
 ## [30/05/2022 - Day 65]
-<h1 align="center"><strong>Downloading the Required Data</h1>
+<h1 align="center"><strong>Preparation of Final Presentation</h1>
+   
+* Recorded successful execution of javascript and python code.
+* Uploaded them to drive and addedlinks to ppt.
+* added image describing the difference between puppeteer and selenium
    
 ---
 ## [31/05/2022 - Day 66]
-<h1 align="center"><strong>Downloading the Required Data</h1>
+<h1 align="center"><strong>Last Day of Internship</h1>
+   
+* Took inputs regarding,changes to be made in ppt.
+* discussion on presentation.
