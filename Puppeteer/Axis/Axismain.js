@@ -35,15 +35,20 @@ async function scrap(){
     retrieve(page,count++)//0
     console.log("Home page src retrieved")
     //click on "ACCOUNTS"
-    try {
-        await page.waitForSelector('#navList1');
-        const [accounts] = await page.$x('//*[@id="navList1"]/div')
-        if (accounts) {accounts.click()}
-    } 
-    catch (error) {
-        console.log(error)
-    }
+
+    // try {
+    //     await page.waitForSelector('#navList1');
+    //     const [accounts] = await page.$x('//*[@id="navList1"]/div')
+    //     if (accounts) {accounts.click()}
+    // } 
+    // catch (error) {
+    //     console.log(error)
+    // }
+
     
+    await page.waitForSelector('#navList1');
+    const [accounts] = await page.$x('//*[@id="navList1"]/div')
+    if (accounts) {accounts.click()}
     
     retrieve(page,count++)//0
     console.log("Accounts page src retrieved")
@@ -151,11 +156,11 @@ async function retrieve(page,count){
 async function parse() {
     const noop = () => {};
     var personal_details = {}
-    var $ = cheerio.load(fses.readFileSync('dumps/dump1.html'));
+    var $ = cheerio.load(fses.readFileSync('dumps/dump2.html'));
     var date = $('body > app-root > mat-sidenav-container > mat-sidenav-content > div > app-homepage > div > div > mat-sidenav-container > mat-sidenav-content > div.innerContheight.ng-tns-c6-0 > section > app-s2000 > div > div > div.tabs.accounttabs.m-b-none > div > app-account-details > div > div > div:nth-child(1) > div.vertical-divider-accountDetails > app-hdr-list-link > div:nth-child(6) > div > div').text()
     months={
         "Jan":"01",
-        Feb:"02",
+        "Feb":"02",
         Mar:"03",
         Apr:"04",
         May:"05",
@@ -184,7 +189,7 @@ async function parse() {
     var summary = {}
     summary["summary"]={
         location:$('body > app-root > mat-sidenav-container > mat-sidenav-content > div > app-homepage > div > div > mat-sidenav-container > mat-sidenav-content > div.innerContheight.ng-tns-c6-0 > section > app-s2000 > div > div > div.tabs.accounttabs.m-b-none > div > app-account-details > div > div > div:nth-child(1) > div.vertical-divider-accountDetails > app-hdr-list-link > div:nth-child(11) > div > div.p-lr-10.text-14.fw-5.text-black.blockVal.ng-star-inserted').text(),
-        accountPattern:$('body > app-root > mat-sidenav-container > mat-sidenav-content > div > app-homepage > div > div > mat-sidenav-container > mat-sidenav-content > div.innerContheight.ng-tns-c6-0 > section > app-s2000 > div > div > div.tabs.accounttabs.m-b-none > div > app-account-details > div > div > div:nth-child(1) > div.vertical-divider-accountDetails > app-hdr-list-link > div:nth-child(3) > div > div').text(),
+        accountPattern:$('body > app-root > mat-sidenav-container > mat-sidenav-content > div > app-homepage > div > div > mat-sidenav-container > mat-sidenav-content > div.innerContheight.ng-tns-c6-0 > section > app-s2000 > div > div > div.tabs.accounttabs.m-b-none > div > app-account-details > div > div > div:nth-child(1) > div.vertical-divider-accountDetails > app-hdr-list-link > div:nth-child(2) > div > div.p-lr-10.text-14.fw-5.text-black.blockVal.ng-star-inserted').text(),
         balance:$('#card0 > div > div.w-100percent.feild-one.non-input-field.ng-star-inserted > div').text(),
         micrcode:"",
         iType:"bank",
@@ -220,7 +225,7 @@ async function parse() {
 
 async function main(){
     await console.time("Time to retrieve details from axis website:")
-    await scrap()
+    // await scrap()
     await parse()
     await console.timeEnd("Time to retrieve details from axis website:")
 }
